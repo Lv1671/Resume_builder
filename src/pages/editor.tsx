@@ -9,7 +9,7 @@ const Editor: NextPage = () => {
   return (
     <FlexHC>
       <Head>
-        <title>Resume Builder</title>
+        <title>Sims-Resume</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 

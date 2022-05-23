@@ -14,13 +14,13 @@ const FeatureContainer = styled.div`
   row-gap: 50px;
 
   h2 {
-    color: #6c63ff;
+    color: black;
     text-align: center;
     margin: 10px 0;
   }
 
   p {
-    font-size: 0.8em;
+    font-size: 1.2em;
     color: #2d2d2d;
   }
 
@@ -39,7 +39,7 @@ const Features: NextPage = () => {
   return (
     <FeatureContainer>
       <div>
-        <Image src="/home/no-account.png" alt="No account" height="50px" width="50px" />
+        <Image src="/home/no-account.png" alt="No account" height="90px" width="95px" />
         <h2>No signup/signin</h2>
         <p>
           Completely free and open source. No registration required. We do not store any of your
@@ -47,7 +47,7 @@ const Features: NextPage = () => {
         </p>
       </div>
       <div>
-        <Image src="/home/timer.png" alt="No account" height="50px" width="50px" />
+        <Image src="/home/timer.png" alt="No account" height="90px" width="95px" />
 
         <h2>Build in minutes</h2>
         <p>
@@ -56,7 +56,7 @@ const Features: NextPage = () => {
         </p>
       </div>
       <div>
-        <Image src="/home/resume.png" alt="No account" height="50px" width="50px" />
+        <Image src="/home/resume.png" alt="No account" height="90px" width="95px" />
         <h2>Fit for your needs</h2>
         <p>
           If you are a developer, customize the template which suits your data and all you need to

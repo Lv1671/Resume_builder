@@ -50,7 +50,7 @@ const HeroHolder = styled.div`
 
 const CTA = styled.span`
   padding: 0.8rem 2rem;
-  background: #6c63ff;
+  background: #19191c;
   color: white;
   border-radius: 4px;
   text-align: center;
@@ -63,7 +63,7 @@ const Hero: NextPage = () => {
       <div>
         <h3>Free & Open source</h3>
         <h1>
-          Single Page <br />
+          Sims <br />
           Resume Builder
         </h1>
         <div className="cta-holder">
@@ -74,7 +74,7 @@ const Hero: NextPage = () => {
           </Link>
         </div>
       </div>
-      <Image src="/hiring.svg" alt="hiring" width="300px" height="300px" priority />
+      <Image src="/hiring.svg" alt="hiring" width="200px" height="300px" priority />
     </HeroHolder>
   );
 };

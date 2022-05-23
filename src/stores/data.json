@@ -1,146 +1,181 @@
 {
   "basics": {
-    "name": "Jane Doe",
-    "label": "Frontend Developer",
-    "image": "https://www.linkpicture.com/q/generated_photos_5e68893b6d3b380006f22f8b.jpg",
-    "email": "janedoe@email.com",
-    "phone": "+91 9876543210",
+    "name": "Lakshay Varshney",
+    "label": "Web Developer",
+    "image": "",
+    "email": "lvarshney1671@gmail.com",
+    "phone": "9890098900",
     "url": "www.github.com/sadanandpai/",
-    "summary": "I am a web developer having expertise in frontend development and exposure to back- end development. I design and develop web applications using the latest technologies to deliver the product with quality code.",
+    "summary": "Current I'm in Final year of my BCA and i'm learning about majority of data structures and Algorithms to find and give the optimal Solutions also got the opportunity to worki in various Mern Stack projects.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Benglauru",
+      "city": "Delhi",
       "countryCode": "",
       "region": ""
     },
-    "relExp": "4 years",
-    "totalExp": "6 Years",
-    "objective": "Eager to expand my skill set through external trainings to help boost all major front desk KPIs. Hoping to leverage organizational skills to help ABC Corp introduce time-saving schemes for all executives.",
+    "relExp": "6 months",
+    "totalExp": "6 months",
+    "objective": "To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills. Secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company.",
     "profiles": [
       {
         "network": "linkedin",
-        "username": "sadanandpai",
-        "url": "https://www.linkedin.com/in/sadanandpai/"
+        "username": "Lakshay Varshney",
+        "url": "https://www.linkedin.com/in/lakshay-varshney-7a412a174/"
       },
       {
         "network": "github",
-        "username": "sadanandpai",
-        "url": "https://github.com/sadanandpai/"
+        "username": "Lakshay Varshney",
+        "url": "https://github.com/Lv1671"
       },
       {
         "network": "hackerrank",
-        "username": "paicube",
-        "url": "https://www.hackerrank.com/paicube/"
+        "username": "Lakshay Varshney",
+        "url": "https://www.hackerrank.com/lvarshney1671"
       },
       {
         "network": "leetcode",
-        "username": "paicube",
-        "url": "https://leetcode.com/paicube/"
+        "username": "Lakshay Varshney",
+        "url": "https://leetcode.com/lvarshney1671/"
       }
     ]
   },
-
   "skills": {
     "languages": [
-      { "name": "JavaScript", "level": 5 },
-      { "name": "HTML5", "level": 5 },
-      { "name": "CSS", "level": 5 }
+      {
+        "name": "JavaScript",
+        "level": 4
+      },
+      {
+        "name": "HTML5",
+        "level": 4.5
+      },
+      {
+        "name": "CSS",
+        "level": 4
+      }
     ],
     "frameworks": [
-      { "name": "React", "level": 4 },
-      { "name": "Angular", "level": 4 }
-    ],
-    "technologies": [
-      { "name": "Algorithms", "level": 3 },
-      { "name": "Progressive Web Apps", "level": 3 },
-      { "name": "SQL", "level": 3 },
-      { "name": "Data Structures", "level": 3 }
+      {
+        "name": "React",
+        "level": 3.5
+      }
     ],
     "libraries": [
-      { "name": "jQuery", "level": 3 },
-      { "name": "Redux", "level": 3 }
+      {
+        "name": "jQuery",
+        "level": 3
+      },
+      {
+        "name": "Redux",
+        "level": 3
+      }
     ],
-    "databases": [{ "name": "Firebase", "level": 3 }],
+    "databases": [
+      {
+        "name": "Firebase",
+        "level": 3
+      }
+    ],
+    "technologies": [
+      {
+        "name": "Algorithms",
+        "level": 3
+      },
+      {
+        "name": "SQL",
+        "level": 3
+      },
+      {
+        "name": "Data Structures",
+        "level": 3
+      }
+    ],
     "practices": [
-      { "name": "Component based architecture", "level": 3 },
-      { "name": "Agile methodology", "level": 3 },
-      { "name": "Design Patterns", "level": 3 },
-      { "name": "Test Driven Development", "level": 3 },
-      { "name": "MVC", "level": 3 }
+      {
+        "name": "Selenium",
+        "level": 1
+      },
+      {
+        "name": "Cheerio",
+        "level": 1
+      },
+      {
+        "name": "Puppeteer",
+        "level": 1
+      },
+      {
+        "name": "Node js",
+        "level": 1
+      }
     ],
     "tools": [
-      { "name": "Git", "level": 3 },
-      { "name": "VS Code", "level": 3 },
-      { "name": "Jira", "level": 3 },
-      { "name": "Webpack", "level": 3 },
-      { "name": "Eclipse", "level": 3 },
-      { "name": "Bitbucket", "level": 3 }
+      {
+        "name": "Git",
+        "level": 3
+      },
+      {
+        "name": "VS Code",
+        "level": 3
+      },
+      {
+        "name": "Jira",
+        "level": 3
+      },
+      {
+        "name": "Eclipse",
+        "level": 3
+      }
     ]
   },
-
   "work": [
     {
-      "name": "Company 1",
-      "position": "Senior Software Developer",
+      "name": "Deloitte",
+      "position": "Associate",
       "url": "",
-      "startDate": "Apr 2021",
+      "startDate": "Sep 2022",
       "endDate": "present",
-      "years": "2.5 years",
+      "years": "",
       "highlights": [],
       "summary": "* Use my extensive experience with front end development to define the structure and components for the project, making sure they are reusable\n* Keep the code quality high reviewing code from other developers and suggesting improvements\n* Interact with the designer to suggest changes and to make sure the view he has about the design is translated into actual functionality\n* E-commerce maintenance **with Fastcommerce**, a Brazilian e-commerce platform"
     },
     {
-      "name": "Company 2",
-      "position": "Software Developer",
+      "name": "Pepcoding Education Pvt.Ltd",
+      "position": "Software Development Trainee",
       "url": "",
-      "startDate": "Jun 2015",
-      "endDate": "Dec 2017",
-      "years": "2.5 years",
+      "startDate": "Jun 2022",
+      "endDate": "Aug 2022",
+      "years": "2 months",
       "highlights": [],
       "summary": "* Develop web applications based on Sharepoint, Drupal 8 and Episerver\n* Lead a team of 10 front end developers, giving support to the client's multi-cultural team, providing feedback, clarifying requirements and helping with technical questions\n* Keep the Project Manager and the IT Leads updated on the overall progress of the projects and manage the tasks distributed to the team\n* Keep the code and the features implemented by the other developers in accordance to the requirements"
     },
     {
-      "name": "Company 3",
+      "name": "WebFlair",
       "position": "Trainee Developer",
       "url": "",
-      "startDate": "Aug 2011",
-      "endDate": "May 2015",
-      "years": "1 year",
+      "startDate": " Mar 2022",
+      "endDate": "May 2022",
+      "years": "2 months",
       "highlights": [],
       "summary": "* Design easy user interfaces and great user experiences for the digital platforms of small companies\n* Wordpress development, including themes creation or customization, custom plugins development and training\n* E-commerce maintenance with Fastcommerce, a Brazilian e-commerce platform\n* E-commerce development with Magento, customizing preexisting themes \n* Integrate external services such as payment services, delivery, etc into Magento solutions\n* VPS configuration and optimization (Apache & Nginx)"
     }
   ],
-
   "education": [
     {
-      "institution": "MIT, University",
-      "url": "https://www.mit.edu/",
-      "studyType": "MS",
-      "area": "Cloud technology",
-      "startDate": "2014",
-      "endDate": "2016",
-      "score": "68%",
-      "courses": []
-    },
-    {
-      "institution": "NMAMIT, Nitte",
-      "url": "https://www.mit.edu/",
-      "studyType": "B.Tech (VTU)",
-      "area": "Computer Science",
-      "startDate": "2010",
-      "endDate": "2014",
+      "institution": "GGSIPU,University",
+      "url": "",
+      "studyType": "BCA(Sims)",
+      "area": "Computer Applications",
+      "startDate": "2019",
+      "endDate": "2022",
       "score": "8.3 CGPA",
       "courses": []
     }
   ],
-
   "activities": {
     "involvements": "* Prevented millions of dollars in state sales tax undercharges by initiating tests that revealed a bug in a new release of shopping cart software.\n * Isolated previously undiscovered flaw in price checking tool resulting in more competitive pricing and a 20 percent increase in revenue.\n * Implemented automated testing tools spawning more diligent levels of regression testing, negative testing, error/bug retests and usability.\n * Prevented millions of dollars in state sales tax undercharges by initiating tests that revealed a bug in a new release of shopping cart software.",
-
-    "achievements": "* React and redux - A complete guide 2020 from Udemy'\n * Agile and Scrum Master Certificate from Udacity\n  * Best performer award for consistently exceeding the performance\n  * Certificate of exceptional bug finder by XYZ client\n  * Recognition zero defect delivery\n  * Best performer award for consistently exceeding the performance"
+    "achievements": "* 4 star Coder at Hackerrank\n* Data Structures and Algorithms at Pepcoding\n* AWS Fundamentals :Going Cloud Native\n* Cyber Security Essentials : Cisco"
   },
-
   "volunteer": [],
   "awards": []
 }
